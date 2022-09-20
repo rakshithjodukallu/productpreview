@@ -1,6 +1,7 @@
 body{
     background-color: #f3eae3;
     display: flex;
+    min-height: 100vh;
     align-items: center;
     justify-content: center;
     align-content: center;
@@ -45,6 +46,7 @@ width: 50%;
 
   h2{
     font-family: 'Fraunces', serif;
+    font-weight: 700;
 
   }
   .price{
@@ -58,6 +60,8 @@ width: 50%;
     font-size: 40px;
     color: #3d8168;
     margin-right: 25px;
+    font-weight: 700;
+
   }
 .addtocart{
 text-align: center;
